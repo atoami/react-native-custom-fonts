@@ -1,3 +1,25 @@
+## Available Fonts
+
+- HelveticaNeue-Bold
+- HelveticaNeue-Medium
+- Lato-Black
+- Roboto-Bold
+- Roboto-Light
+- Roboto-Medium
+- Roboto-Regular
+- SFProDisplay-Black
+- SFProDisplay-Bold
+- SFProDisplay-Heavy
+- SFProDisplay-Light
+- SFProDisplay-Medium
+- SFProDisplay-Regular
+- SFProDisplay-Semibold
+- SFProDisplay-Thin
+- SFProDisplay-Ultralight
+- SFProText-Bold
+- SFProText-Regular
+- SFProText-Semibold
+
 ## How to use?
 
 ##### 1. Add the following lines in your project's package.json.
